@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @blaqclou 
+- 👀 I’m interested in being a good web developer
+- 🌱 I’m currently learning HTML and CSS
+- 💞️ I’m looking to collaborate on 
+- 📫 How to reach me through email @ derickmathara01@gmail.com
+- 😄 Pronouns: ...
+- ⚡ Fun fact: am just a motivated beginner to start this journey of web development
